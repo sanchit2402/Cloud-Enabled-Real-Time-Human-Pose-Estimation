@@ -1,8 +1,4 @@
-Here’s a clean, professional, and production-ready **README.md** for your *Cloud-Enabled Real-Time Human Pose Estimation* project.
 
-If you want, I can also create a canvas version or format it specifically for GitHub with badges.
-
----
 
 # **Cloud-Enabled Real-Time Human Pose Estimation**
 
